@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nautilus1 &#8211; Nautilus &#8211; Medicina Estética</title>
+	<atom:link href="/http://sanypg.github.io/sebastian-pliego/author/nautilus1/feed/" rel="self" type="application/rss+xml" />
+	<link>/http://sanypg.github.io/sebastian-pliego</link>
+	<description>Otro sitio realizado con WordPress</description>
+	<lastBuildDate>Mon, 21 Oct 2019 14:23:53 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>¡Hola mundo!</title>
+		<link>/http://sanypg.github.io/sebastian-pliego/2019/10/21/hola-mundo/</link>
+				<comments>/http://sanypg.github.io/sebastian-pliego/2019/10/21/hola-mundo/#comments</comments>
+				<pubDate>Mon, 21 Oct 2019 14:23:53 +0000</pubDate>
+		<dc:creator><![CDATA[Nautilus1]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">/http://sanypg.github.io/sebastian-pliego/?p=1</guid>
+				<description><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!]]></description>
+								<content:encoded><![CDATA[
+<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
+]]></content:encoded>
+							<wfw:commentRss>/http://sanypg.github.io/sebastian-pliego/2019/10/21/hola-mundo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
